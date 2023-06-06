@@ -6,10 +6,10 @@
 
 
 
-- ⚡ A passionate Data Science / Engineering
-- 
-- 🌱 I’m currently learning **Cloud ☁️**
 
+
+- 🌱 I’m currently learning **Cloud ☁️**
+- ⚡ A passionate Data Science / Engineering
 - 💬 Ask me about **Machine Learning**
 
 
