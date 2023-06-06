@@ -6,7 +6,8 @@
 
 
 
-
+- ⚡ A passionate Data Science / Engineering
+- 
 - 🌱 I’m currently learning **Cloud ☁️**
 
 - 💬 Ask me about **Machine Learning**
