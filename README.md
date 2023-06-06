@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">A passionate Data Science / Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarpovic&label=Profile%20views&color=0e75b6&style=flat" alt="sarpovic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarpovic" alt="sarpovic" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sarpovici" target="blank"><img src="https://img.shields.io/twitter/follow/sarpovici?logo=twitter&style=for-the-badge" alt="sarpovici" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud ☁️**
 
