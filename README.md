@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">Data Scientist 
-@visbanking
  | CmpE • AI & ML minor 
 @esteknikuniv</h3>
 
